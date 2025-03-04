@@ -1,4 +1,5 @@
 import React from "react";
+import {link} from "react-router-dom"
 //first component moviecard
 const MovieCard = ({ movie }) => {
   return (
